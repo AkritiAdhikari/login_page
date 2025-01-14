@@ -11,8 +11,9 @@
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-color: rgb(74, 66, 66);
-    height: 109vh;
+    height: 100vh;
+    padding:10px 8%;
+    position:relative;
 }
 
 .navbar {
@@ -169,9 +170,3 @@ h2{
     outline: none;
 }
 /*for small screen*/
-@media only screen and (max-width:600px){
-    .form{
- position: relative;
-  left: -20px;
-    }
-}
