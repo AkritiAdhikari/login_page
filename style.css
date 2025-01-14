@@ -168,4 +168,10 @@ h2{
 .srch:focus {
     outline: none;
 }
-
+/*for small screen*/
+@media only screen and (max-width:600px){
+    .form{
+ position: relative;
+  left: -20px;
+    }
+}
