@@ -7,11 +7,10 @@
 
 .main {
     width: 100%;
-    background-image: url(tree1.jpg.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
     height: 100vh;
+    background-image: url(tree1.jpg.jpg);
+    background-size: cover;
+     background-position: center;
     padding:10px 8%;
     position:relative;
 }
